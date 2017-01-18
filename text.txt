@@ -1,6 +1,0 @@
-Game plan:
-
-
-1. simple facebook calendar
-2. gps person fetching
-3. viggy idea
